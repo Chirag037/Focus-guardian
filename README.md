@@ -15,8 +15,6 @@
 
 ---
 
-## 🖼️ Screenshot
-> _Add a screenshot of the UI here_  
 > `Start`, `Stop`, and `Show Report` buttons with a motivational message display.
 
 ---
