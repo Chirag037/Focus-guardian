@@ -26,14 +26,16 @@
 https://github.com/Chirag037/Focus-guardian
 cd FocusGuardian
 Install required packages
+```
 
-bash
+```bash
 Copy
 Edit
 pip install matplotlib pynput
 Run the app
+```
 
-bash
+```bash
 Copy
 Edit
 python FocusGuardian.py
@@ -43,9 +45,10 @@ GUI	tkinter
 DB	SQLite
 Charts	matplotlib
 Idle Detection	pynput
+```
 
 📁 Project Structure
-bash
+```bash
 Copy
 Edit
 FocusGuardian/
@@ -61,7 +64,9 @@ Daily focus goals and progress bars
 Dark/light mode toggle
 
 Export report to PDF/CSV
-
+```
+```bash
 🙋 Author
 Chirag
 🔗 GitHub
+```
